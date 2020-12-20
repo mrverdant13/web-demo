@@ -21,6 +21,8 @@
 
 # CUSTOM
 *_bin
+*_config.yaml
+!sample_config.yaml
 
 # VSCode
 .vscode/settings.json
